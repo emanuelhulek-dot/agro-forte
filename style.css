@@ -3,18 +3,21 @@ body {
     background-color: bisque;
 }
 .container img{
-    max-width:200px;
+    max: width 10px;80px;
     max-height: 100px;
     width:auto;
     height: auto;
+    widt:auto:40%;
+    heght:40%;
 }
-
+background-color:#191717;
+    color:antiquewhite;
 .h1 {
     color:blue;
 }
 
 .h2 {
 
-    color:brown;
+    color:rgb(83, 236, 221);
     
 }
